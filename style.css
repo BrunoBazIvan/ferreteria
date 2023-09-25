@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.centrador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
+}
+#containerHerramientas{
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3vh;
+}
+.contenedorImg img{
+    width: 100%;
+}
+.articulo{
+    width: 100%;
+}
+.articulo img{
+    width: 50vh;
+    height: 50vh;
+}
+
